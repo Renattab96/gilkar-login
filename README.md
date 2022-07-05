@@ -1,5 +1,7 @@
 
-<h1>login gilkar</h1> 
+<h1>Login <br>Gilkar</h1> 
 <br>
-<img src="/logearse.png" alt="login"/>
-<img src="/registroUsuario.png" alt="registrar"/>
+<p align="center">
+<img src="/logearse.png" alt="login" width="350" title="hover text">
+<img src="/registroUsuario.png" alt="registrar" width="350" alt="accessibility text">
+</p>
